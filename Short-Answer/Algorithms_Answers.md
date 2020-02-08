@@ -2,10 +2,10 @@
 
 ## Exercise I
 
-a)
+a) When going through the loop you always increase by n. So your run time is O(n)
 
 
-b)
+b) 
 
 
 c)
